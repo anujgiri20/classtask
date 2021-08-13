@@ -1,0 +1,77 @@
+body{
+    margin:0;
+}
+.git
+{
+    background-color:#595260;
+    margin:0;
+    padding-top:20px;
+    padding-bottom:20px;
+    color:white;
+    font-weight: lighter;
+    text-align: center;
+ 
+
+}
+
+
+
+.box1
+{
+    border-radius: 25px;
+    background: #444941;
+  margin-top:60px;
+    width: 200px;
+    height: 150px;
+    margin-left:70px;
+   
+    
+}
+.box2
+{border-radius: 25px;
+    background: #444941;
+  margin-top:60px;
+    width: 200px;
+    height: 150px;
+    margin-left:50px;
+}
+.box3
+{ border-radius: 25px;
+    background: #444941;
+  margin-top:60px;
+    width: 200px;
+    height: 150px;
+    margin-left:50px;
+}
+.textt
+{border-radius: 25px;
+    width:400px;
+    background-color: #444941;
+    margin-top:80px;
+    margin-left:90px;
+}
+.box4
+{border-radius: 25px;
+    color: #444941;
+    width:40%;
+    background-color:#444941;
+    margin-top:90px;
+    padding-top:200px;
+    padding-left:550px;
+    margin-left:20px;
+   
+}
+.box0
+{
+    border-radius: 25px;
+    color: #444941;
+ 
+    background-color:#444941;
+    margin-top:90px;
+    padding-left:50px;
+    padding-top:550px;
+ 
+}
+body{
+    background-color: #E1F1DD;
+}
